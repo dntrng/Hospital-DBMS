@@ -1,0 +1,1 @@
+create or replace type TableForFunction as table of TypeForFunction;
